@@ -1,1 +1,3 @@
-# sports-analytics-2
+# Sports Analytics - 2
+🏷️ Polynomial Regression
+🏭 Entertainment: Sports
