@@ -5,7 +5,7 @@
 🏭 Entertainment: Sports     
 
 ## Project Overview
-- **Purpose and goal of the project**   
+**Purpose and goal of the project**   
 The National Basketball Association (NBA) is one of the most popular professional sports leagues in the world, with a large and dedicated fan base. Understanding the factors that contribute to a team's ability to score points is crucial for coaches, team managers, and owners, as it can inform decicions related to player acquisition, training and nutrition, and game strategy.     
 
 Knowing the points scored by a particular player beforehand can also help the stakeholders to make informed decisions on the playing time and role of the player in the team. For example, if a team has a player who is consistently scoring a high number of points, it might make sense to give them more playing time or to make them a focal point of the team's offensive strategy.     
@@ -14,13 +14,13 @@ Additionally, predicting the points scored by a team can also help the stakehold
 
 In short, being able to accurately predict the points scored by a team can be a powerful tool for coaches, team managers, and owners as it can inform decisions related to player acquisition, training and nutrition, and game strategy, as well as help them to make better decisions on game day. Ultimately, this can lead to a more successful team, which can result in increased revenue and fan engagement. 
 
-- **Business Objective**     
+**Business Objective**     
 The objective of this project is to predict the points scored by a sports team in the NBA considering various factors such as average number of laps run per practice, number of players absent for session etc.
 
 ## Data    
-- **Dataset used**    
+**Dataset used**    
 The NBA dataset is retrieved from Kaggle. The cdataset contains 159 observations and 7 features. It contains null values.    
-- **Data dictionary**    
+**Data dictionary**    
 * Team: name of the team: Lakers, Clippers, Warriors, Bulls, Trailblazers, Porcupines
 * Points_Scored: points scored by the team
 * Weightlifting_Sessions_Average: weighlifting sessions on an average done by the team
