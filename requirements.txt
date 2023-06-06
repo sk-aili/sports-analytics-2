@@ -1,0 +1,14 @@
+pandas
+scikit_learn
+seaborn
+matplotlib
+matplotlib_venn
+numpy
+tqdm
+xgboost
+ipywidgets
+lightgbm
+catboost
+category_encoders
+japanize_matplotlib
+packaging
