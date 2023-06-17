@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: whylabs-client
+Version: 0.3.0
+Summary: WhyLabs API client
+Home-page: UNKNOWN
+Author: WhyLabs
+Author-email: support@whylabs.ai
+License: Apache License 2.0
+Keywords: OpenAPI,OpenAPI-Generator,WhyLabs API client
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: python-dateutil
+Requires-Dist: urllib3 (>=1.25.3)
+
+WhyLabs API that enables end-to-end AI observability
+
+

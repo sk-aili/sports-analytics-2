@@ -1,0 +1,62 @@
+# flake8: noqa
+
+# import all models into this package
+# if you have many models here with many references from one model to another this may
+# raise a RecursionError
+# to avoid this, import only the models that you directly need like:
+# from from whylabs_client.model.pet import Pet
+# or import this package, but before doing it, use:
+# import sys
+# sys.setrecursionlimit(n)
+
+from whylabs_client.model.add_membership_request import AddMembershipRequest
+from whylabs_client.model.alerts_path import AlertsPath
+from whylabs_client.model.alerts_summary import AlertsSummary
+from whylabs_client.model.async_log_response import AsyncLogResponse
+from whylabs_client.model.close_session_response import CloseSessionResponse
+from whylabs_client.model.create_session_response import CreateSessionResponse
+from whylabs_client.model.create_session_upload_response import CreateSessionUploadResponse
+from whylabs_client.model.create_user_request import CreateUserRequest
+from whylabs_client.model.events_path import EventsPath
+from whylabs_client.model.events_summary import EventsSummary
+from whylabs_client.model.get_alerts_paths_response import GetAlertsPathsResponse
+from whylabs_client.model.get_default_membership_response import GetDefaultMembershipResponse
+from whylabs_client.model.get_events_path_response import GetEventsPathResponse
+from whylabs_client.model.get_memberships_response import GetMembershipsResponse
+from whylabs_client.model.get_notification_settings_response import GetNotificationSettingsResponse
+from whylabs_client.model.get_session_response import GetSessionResponse
+from whylabs_client.model.list_models_response import ListModelsResponse
+from whylabs_client.model.list_segments_response import ListSegmentsResponse
+from whylabs_client.model.list_user_api_keys import ListUserApiKeys
+from whylabs_client.model.log_async_request import LogAsyncRequest
+from whylabs_client.model.log_reference_request import LogReferenceRequest
+from whylabs_client.model.log_reference_response import LogReferenceResponse
+from whylabs_client.model.log_response import LogResponse
+from whylabs_client.model.membership import Membership
+from whylabs_client.model.membership_metadata import MembershipMetadata
+from whylabs_client.model.model_metadata import ModelMetadata
+from whylabs_client.model.model_type import ModelType
+from whylabs_client.model.monitor_config import MonitorConfig
+from whylabs_client.model.notification_settings import NotificationSettings
+from whylabs_client.model.notification_settings_day import NotificationSettingsDay
+from whylabs_client.model.notification_sqs_message_cadence import NotificationSqsMessageCadence
+from whylabs_client.model.organization_metadata import OrganizationMetadata
+from whylabs_client.model.organization_summary import OrganizationSummary
+from whylabs_client.model.provided_config import ProvidedConfig
+from whylabs_client.model.provision_new_user_request import ProvisionNewUserRequest
+from whylabs_client.model.provision_new_user_response import ProvisionNewUserResponse
+from whylabs_client.model.reference_profile_item_response import ReferenceProfileItemResponse
+from whylabs_client.model.remove_membership_request import RemoveMembershipRequest
+from whylabs_client.model.role import Role
+from whylabs_client.model.segment import Segment
+from whylabs_client.model.segment_metadata import SegmentMetadata
+from whylabs_client.model.segment_summary import SegmentSummary
+from whylabs_client.model.segment_tag import SegmentTag
+from whylabs_client.model.session_metadata import SessionMetadata
+from whylabs_client.model.set_default_membership_request import SetDefaultMembershipRequest
+from whylabs_client.model.subscription_tier import SubscriptionTier
+from whylabs_client.model.time_period import TimePeriod
+from whylabs_client.model.uber_notification_schedule import UberNotificationSchedule
+from whylabs_client.model.user import User
+from whylabs_client.model.user_api_key import UserApiKey
+from whylabs_client.model.user_api_key_response import UserApiKeyResponse

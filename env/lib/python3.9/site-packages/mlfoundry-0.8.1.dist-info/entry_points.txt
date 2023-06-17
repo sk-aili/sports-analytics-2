@@ -1,0 +1,3 @@
+[console_scripts]
+mlfoundry=mlfoundry.cli.cli_interface:create_mlfoundry_cli
+

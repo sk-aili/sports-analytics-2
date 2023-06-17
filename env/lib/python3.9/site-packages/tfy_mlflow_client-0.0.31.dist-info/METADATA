@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: tfy-mlflow-client
+Version: 0.0.31
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE.txt
+Requires-Dist: click (>=7.0)
+Requires-Dist: cloudpickle
+Requires-Dist: databricks-cli (>=0.8.7)
+Requires-Dist: entrypoints
+Requires-Dist: gitpython (>=2.1.0)
+Requires-Dist: pyyaml (>=5.1)
+Requires-Dist: protobuf (<5.0,>=3.12)
+Requires-Dist: pytz
+Requires-Dist: requests (>=2.17.3)
+Requires-Dist: packaging
+Requires-Dist: importlib-metadata (!=4.7.0,>=3.7.0)
+Requires-Dist: sqlparse (>=0.3.1)
+
+UNKNOWN
+
