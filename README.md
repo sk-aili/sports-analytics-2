@@ -1,7 +1,7 @@
 # Sports Analytics - 2      
 =================================================================================     
-🏷️ Polynomial Regression
-🏷️ Chatterjee Correlation     
+🔬 Polynomial Regression
+🔬 Chatterjee Correlation     
 🏭 Entertainment: Sports     
 
 ## Project Overview
