@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: piecewise
+Version: 0.1
+Summary: Piecewise linear regression
+Home-page: http://github.com/datadog/piecewise
+Author: Stephen Kappel
+Author-email: stephen@datadoghq.com
+License: BSD-3-Clause
+Platform: UNKNOWN
+Provides-Extra: plotting
+
+UNKNOWN
+

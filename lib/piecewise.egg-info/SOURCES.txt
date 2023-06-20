@@ -1,0 +1,6 @@
+piecewise/setup.py
+piecewise.egg-info/PKG-INFO
+piecewise.egg-info/SOURCES.txt
+piecewise.egg-info/dependency_links.txt
+piecewise.egg-info/requires.txt
+piecewise.egg-info/top_level.txt

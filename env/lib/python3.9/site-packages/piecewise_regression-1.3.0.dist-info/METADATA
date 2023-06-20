@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: piecewise-regression
+Version: 1.3.0
+Summary: piecewise (segmented) regression in python
+Home-page: https://github.com/chasmani/piecewise-regression
+Author: Charlie Pilgrim
+Author-email: pilgrimcharlie2@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: statsmodels
+
+piecewise-regression provides tools for fitting continuous straight line models to data with breakpoint(s) where the gradient changes. For docs and more information, visit the Github repo at https://github.com/chasmani/piecewise-regression.
