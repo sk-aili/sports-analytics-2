@@ -12,3 +12,5 @@ catboost
 category_encoders
 japanize_matplotlib
 packaging
+csaps
+mpl_toolkits
